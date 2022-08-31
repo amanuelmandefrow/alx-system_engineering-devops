@@ -1,1 +1,1 @@
-code for accessing current working directory
+script to print current working directory path
