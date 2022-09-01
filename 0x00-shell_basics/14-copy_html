@@ -1,2 +1,2 @@
-#!/bin/basg
-cpa -rua *.html../
+#!bin/bash
+cp -rua *.html ../
